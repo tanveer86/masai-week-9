@@ -1,0 +1,125 @@
+.header{
+    background-color: #ff5252;
+    height: 600px;
+}
+
+.homenavbar{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.homelink{
+    color: white;
+    padding: 30px;
+}
+
+.headerIntro{
+    display: flex;
+    padding: 130px;
+    
+}
+
+.headerIntroImage{
+
+}
+
+.headerIntroForm{
+    margin-left: 150px;
+    background-color: #4caf50;
+    border-radius: 20px;
+}
+
+.searchBox{
+    color: #ff5252;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.searchButton{
+    width: 100%;
+    height: 40px;
+    background-color: #ff5252;
+    border: 1px solid #ff5252;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+
+.footerDiv{
+    display: flex;
+    text-align: center;
+    padding: 20px;
+}
+
+.eachFooter{
+    width: 300px;
+    margin-left: 65px;
+}
+
+.footerMain{
+    background-color: #ff5252;
+    margin-top: 10px;
+    color: white;
+}
+
+.footerText{
+    padding: 20px;
+
+}
+
+.socialLinks img{
+    padding: 5px;
+}
+
+.copright{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+
+.footerInput{
+    height: 35px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    width:180px;
+}
+
+.footerButton{
+    height: 35px;
+    background-color: #4caf50;
+    border: 1px solid #4caf50;
+    color: white;
+    font-weight: bolder;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.eachFooter a{
+    color: white;
+}
+
+.fashionDiv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.adminMenuDiv{
+    background-color: #ff5252;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-weight:bolder;
+}
+
+.adminLink{
+    color: white;
+    padding: 20px;
+}
+
+.adminLogin{
+    margin-left: 400px;
+}

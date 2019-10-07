@@ -1,5 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# WEEK 9 PROJECT
+
+## Mohammed Tanveer
+
+## GadionRent.com
+
+## For our week 9 project I have designed bike rental website which has admin and user option using React, Redux and LocalStorage.
+
+## Homepage
+![Image ](https://i.ibb.co/RpQjMg6/Homepage.png)
+
+## AllBikes
+![Image ](https://i.ibb.co/NTDrfjX/allbikes.png)
+
+## Bike Detail Page
+![Image ](https://i.ibb.co/44Fyyzt/bike-details-page.png)
+
+## Booking Page
+![Image ](https://i.ibb.co/Y094jbB/booking-page.png)
+
+## Booking Sucess
+![Image ](https://i.ibb.co/R9WKYQT/booking-sucess.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
